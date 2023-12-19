@@ -38,4 +38,8 @@ Veja nosso site adaptável em 🚩[Alura Store](https://alura-store-lyart.vercel
 </a>
 
 [Matheus Castiglioni](https://github.com/mahenrique94)
+<br>
+<br>
+### "Salve, virtuoso da programação! 🎶 Bem-vindo à 'Sinfonia de Códigos' inspirada em Ludwig van Beethoven. Aqui, cada linha de código é uma nota em nossa composição digital. Se apreciou a melodia, que tal reger conosco? Dê aquele [`Follow`](https://github.com/Rodolfo-Sampaio) e vamos criar sinfonias de código juntos! Até mais, que a harmonia do HTML e a maestria do CSS estejam com você, criador de códigos clássicos! 🎹💻 #CodeSymphony"
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=100&section=footer" alt="Waving Capsule Render">
